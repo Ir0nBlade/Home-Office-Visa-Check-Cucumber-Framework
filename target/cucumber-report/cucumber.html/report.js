@@ -7,7 +7,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 2502227700,
+  "duration": 2997335800,
   "status": "passed"
 });
 formatter.background({
@@ -26,26 +26,22 @@ formatter.match({
   "location": "VisaConfirmationTest.iStartVisaCheck()"
 });
 formatter.result({
-  "duration": 255531100,
+  "duration": 241342200,
   "status": "passed"
 });
 formatter.scenario({
+  "comments": [
+    {
+      "line": 6,
+      "value": "#  @Smoke @Regression"
+    }
+  ],
   "line": 7,
   "name": "An Australian coming to the UK for Tourism.",
   "description": "",
   "id": "visa-checks;an-australian-coming-to-the-uk-for-tourism.",
   "type": "scenario",
-  "keyword": "Scenario",
-  "tags": [
-    {
-      "line": 6,
-      "name": "@Smoke"
-    },
-    {
-      "line": 6,
-      "name": "@Regression"
-    }
-  ]
+  "keyword": "Scenario"
 });
 formatter.step({
   "line": 8,
@@ -66,29 +62,29 @@ formatter.match({
   "location": "VisaConfirmationTest.iSelectANationalityAustralia()"
 });
 formatter.result({
-  "duration": 250064800,
+  "duration": 181751300,
   "status": "passed"
 });
 formatter.match({
   "location": "VisaConfirmationTest.iSelectReasonTourism()"
 });
 formatter.result({
-  "duration": 205900300,
+  "duration": 287886600,
   "status": "passed"
 });
 formatter.match({
   "location": "VisaConfirmationTest.iWillBeInformedYouWillNotNeedAVisaToComeToTheUK()"
 });
 formatter.result({
-  "duration": 22340400,
+  "duration": 26644800,
   "status": "passed"
 });
 formatter.after({
-  "duration": 593092400,
+  "duration": 585884900,
   "status": "passed"
 });
 formatter.before({
-  "duration": 1477338400,
+  "duration": 1557112600,
   "status": "passed"
 });
 formatter.background({
@@ -107,7 +103,7 @@ formatter.match({
   "location": "VisaConfirmationTest.iStartVisaCheck()"
 });
 formatter.result({
-  "duration": 169743100,
+  "duration": 179827600,
   "status": "passed"
 });
 formatter.scenario({
@@ -157,14 +153,14 @@ formatter.match({
   "location": "VisaConfirmationTest.iSelectANationalityChile()"
 });
 formatter.result({
-  "duration": 150214800,
+  "duration": 234951100,
   "status": "passed"
 });
 formatter.match({
   "location": "VisaConfirmationTest.iSelectReasonWork()"
 });
 formatter.result({
-  "duration": 160676000,
+  "duration": 249786100,
   "status": "passed"
 });
 formatter.match({
@@ -177,29 +173,29 @@ formatter.match({
   "location": "VisaConfirmationTest.iStateIAmIntendingToStayForMoreThanMonths(int)"
 });
 formatter.result({
-  "duration": 149613100,
+  "duration": 198120700,
   "status": "passed"
 });
 formatter.match({
   "location": "VisaConfirmationTest.iStateIHavePlanningToWorkHealthTypesOfJob()"
 });
 formatter.result({
-  "duration": 184569200,
+  "duration": 275071100,
   "status": "passed"
 });
 formatter.match({
   "location": "VisaConfirmationTest.iWillBeInformedYouNeedAVisaToWorkInHealthAndCare()"
 });
 formatter.result({
-  "duration": 24478400,
+  "duration": 23817300,
   "status": "passed"
 });
 formatter.after({
-  "duration": 584203500,
+  "duration": 588687900,
   "status": "passed"
 });
 formatter.before({
-  "duration": 1476356600,
+  "duration": 1536824100,
   "status": "passed"
 });
 formatter.background({
@@ -218,7 +214,7 @@ formatter.match({
   "location": "VisaConfirmationTest.iStartVisaCheck()"
 });
 formatter.result({
-  "duration": 166878000,
+  "duration": 187030100,
   "status": "passed"
 });
 formatter.scenario({
@@ -259,32 +255,32 @@ formatter.match({
   "location": "VisaConfirmationTest.iSelectANationalityOfColombia()"
 });
 formatter.result({
-  "duration": 185906800,
+  "duration": 216463700,
   "status": "passed"
 });
 formatter.match({
   "location": "VisaConfirmationTest.iSelectReasonFamily()"
 });
 formatter.result({
-  "duration": 193261800,
+  "duration": 261565600,
   "status": "passed"
 });
 formatter.match({
   "location": "VisaConfirmationTest.iStateMyPartnerOrFamilyMemberHaveUkImmigrationStatusYes()"
 });
 formatter.result({
-  "duration": 179292800,
+  "duration": 311170900,
   "status": "passed"
 });
 formatter.match({
   "location": "VisaConfirmationTest.iWillBeInformedYouLlNeedAVisaToJoinYourFamilyOrPartnerInTheUK()"
 });
 formatter.result({
-  "duration": 22159100,
+  "duration": 23206200,
   "status": "passed"
 });
 formatter.after({
-  "duration": 584226300,
+  "duration": 576972200,
   "status": "passed"
 });
 });
